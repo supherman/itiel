@@ -50,5 +50,6 @@ module Itiel
     autoload :SelectColumn          , 'itiel/transform/select_column'
     autoload :InputOutputBehavior   , 'itiel/transform/input_output_behavior'
     autoload :MapValues             , 'itiel/transform/map_values'
+    autoload :RemoveColumns         , 'itiel/transform/remove_columns'
   end
 end
