@@ -26,6 +26,7 @@ module Itiel
     autoload :CSVFile               , 'itiel/load/csv_file'
     autoload :ChainedStep           , 'itiel/load/chained_step'
     autoload :DatabaseTable         , 'itiel/load/database_table'
+    autoload :BatchCSV              , 'itiel/load/batch_csv'
   end
 
   module Lookup
